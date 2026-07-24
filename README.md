@@ -333,3 +333,5 @@ ESG + Financial + GAF Stock Risk Classification Project
 # License
 
 This project is developed for academic purposes.
+# label 
+Sometimes the app might crash becuse of the public platform used to run it, please press ctrl+r for restarting thr app
