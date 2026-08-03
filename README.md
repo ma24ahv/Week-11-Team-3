@@ -216,7 +216,7 @@ A final dashboard summarises:
 
 The notebook automatically generates a Streamlit application (`app.py`) that allows users to:
 
-- Upload company information
+- Select company information
 - Predict stock risk
 - View prediction probabilities
 - Visualize model outputs
